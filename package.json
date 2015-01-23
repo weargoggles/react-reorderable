@@ -35,6 +35,6 @@
   },
   "dependencies": {},
   "scripts": {
-    "test": "scripts/test --browsers Chrome --single-run"
+    "test": "scripts/test --browsers Firefox --single-run"
   }
 }
